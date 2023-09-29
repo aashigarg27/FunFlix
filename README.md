@@ -1,3 +1,5 @@
+FunFlix 
+In this app, user can type the title of the movie and fetch results. It also allows the users to add or remove movies from favourites.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
